@@ -4,4 +4,4 @@
   become: true
   roles:
     - infrastructure
-    - sonarcube
+    - sonarqube
